@@ -12,7 +12,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello Welcome!");
             Console.WriteLine("2nd Commit");
-            Console.WriteLine("3rd Commit");
+         
             Console.ReadLine();
         }
     }
